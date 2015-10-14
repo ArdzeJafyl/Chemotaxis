@@ -42,8 +42,8 @@
 			call = call + 1;
 		}
 		if (mousePressed == true){
-	 		mX = (int)(Math.random()*1)+399;
-	 		mY = (int)(Math.random()*1)+399;
+	 		mX = 400;
+	 		mY = 400;
 	 		call = 0;
 	 		d = 0;
 		}else{
